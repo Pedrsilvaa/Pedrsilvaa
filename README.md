@@ -1,7 +1,7 @@
 ## Olá!! Eu sou Pedro Silvestre 👋
 
 Estudo em Etec e estou cursando Desenvolvimento de Sistemas.
-Tenho experiência em desenvolvimento back-end e sou um músico amador.
+Tenho experiência em desenvolvimento back-end e sou um músico.
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Pedr-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
