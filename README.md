@@ -16,9 +16,9 @@ Tenho experiência em desenvolvimento back-end e sou um músico amador.
  
 <div>
     <a href="https://www.github.com/Pedrsilvaa">
-        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Pedrsilvaa&theme=react&show_icons=true&hide_border=false&count_private=true">
+        <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Pedrsilvaa&theme=react&show_icons=true&hide_border=false&count_private=true">
     </a>
     <a href="https://www.github.com/Pedrsilvaa">
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrsilvaa&theme=react&show_icons=true&hide_border=false&layout=compact">
+        <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrsilvaa&theme=react&show_icons=true&hide_border=false&layout=compact">
     </a>
 </div>
