@@ -2,7 +2,7 @@
 <div>
     <h1>Olá!! Eu sou Pedro Silvestre 👋</h1>
     <p>
-        Texto
+        Eu sou técnico em desenvolvimento de sistemas, formado na Etec. Tenho experiência em desenvolvimento back-end e web, com domínio em Java e MySQL, e na criação de API RESTful.
     </p>
 </div>
 
