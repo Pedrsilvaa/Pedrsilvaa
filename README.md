@@ -2,7 +2,7 @@
 <div>
     <h1>Olá!! Eu sou Pedro Silvestre 👋</h1>
     <p>
-        Eu sou técnico em desenvolvimento de sistemas, formado na Etec de Itaquaquecetuba. Tenho experiência em desenvolvimento back-end e web, com domínio em Java e MySQL, e na criação de API RESTful.
+        Eu sou técnico em desenvolvimento de sistemas, formado na Etec de Itaquaquecetuba. Tenho experiência em desenvolvimento back-end com domínio em Java, MySQL e na criação de API RESTful.
     </p>
 </div>
 
@@ -17,7 +17,6 @@
     </p>
     <p>
         <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/></a>
-        <a href="https://react.dev" target="_blank"><img align="center" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react"></a>
         <a href="https://nodejs.org/en/" target="_blank"><img align="center" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node.js"/></a>
         <a href="https://www.mysql.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="my_sql"/></a>
         <a href="https://www.mongodb.com" target="_blank"><img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"></a>
